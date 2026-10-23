@@ -67,7 +67,7 @@ h3 {
 
 .omelette p {
     margin-bottom: 32px;
-     font-family: "Outfit", sans-serif;
+    font-family: "Outfit", sans-serif;
 }
 
 .preparation {
@@ -160,19 +160,20 @@ td {
         padding: 20px;
         height: 100%;
     }
+
     body {
         padding: 4px;
         padding-top: 2px;
     }
 
-    .recipe-card{
+    .recipe-card {
         width: 100%;
         max-width: 100%;
         padding: 20px;
         border-radius: 0;
     }
 
-    .recipe-image{
+    .recipe-image {
         width: 340px;
         height: 200px;
         object-fit: contain;
